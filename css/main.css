@@ -86,7 +86,7 @@ i {
 
 .heading h2 {
 	font-size: 36px;
-	color: #695aa6;
+	color: #e24b2b;
 	font-family: 'Baloo Paaji', cursive;
 	font-weight: 400;
 }
@@ -139,7 +139,7 @@ i {
 	-webkit-box-shadow: 0px 0px 20px 0px rgba(105, 90, 166, 0.2);
 	-moz-box-shadow: 0px 0px 20px 0px rgba(105, 90, 166, 0.2);
 	box-shadow: 0px 0px 20px 0px rgba(105, 90, 166, 0.2);
-	color: #695aa6;
+	color: #e24b2b;
     background: #fff;
 	text-align: center;
 }
@@ -285,7 +285,7 @@ i {
 
 .banner_text h2 {
 	font-size: 55px;
-	color: #695aa6;
+	color: #e24b2b;
 	font-family: 'Baloo Paaji', sans-serif;
 	font-weight: 400;
     line-height: 52px;
@@ -377,7 +377,7 @@ z-index: -1;
 	height: calc(100% - 0px);
     padding: 5px;
 	border: 8px solid #ddd;
-	border-top: 8px solid #695aa6;
+	border-top: 8px solid #e24b2b;
 	border-radius: 50%;
 	animation: rotate 5s linear infinite;
 }
@@ -418,7 +418,7 @@ z-index: -1;
 
 .about_social h3 {
 	font-size: 24px;
-	color: #695aa6;
+	color: #e24b2b;
 	font-family: 'Baloo Paaji', cursive;
 	font-weight: 400;
     line-height: 24px;
@@ -439,7 +439,7 @@ z-index: -1;
 }
 
 .about_social ul li i:hover {
-	background: #695aa6;
+	background: #e24b2b;
 	color: #ffffff;
 	border: transparent;
 	-webkit-box-shadow: 0px 0px 10px 0px rgba(105, 90, 166, 0.9);
@@ -453,7 +453,7 @@ z-index: -1;
 
 .chatbox a i{
 	position: absolute;
-	color: #695aa6;
+	color: #e24b2b;
 	width: 40px;
 	height: 40px;
 	line-height: 40px;
@@ -518,7 +518,7 @@ z-index: -1;
 }
 
 .service_inner:hover h4 {
-	color: #695aa6;
+	color: #e24b2b;
 	transition: all 0.5s ease;
 }
 
@@ -571,7 +571,7 @@ z-index: -1;
 
 
 .slidNext4:hover {
-	background: #695aa6;
+	background: #e24b2b;
 	-webkit-box-shadow: 0px 0px 12px 0px rgba(105, 90, 166, 0.8);
 	-moz-box-shadow: 0px 0px 12px 0px rgba(105, 90, 166, 0.8);
 	box-shadow: 0px 0px 12px 0px rgba(105, 90, 166, 0.8);
@@ -597,7 +597,7 @@ z-index: -1;
 }
 
 .slidprev4:hover {
-	background: #695aa6;
+	background: #e24b2b;
 	-webkit-box-shadow: 0px 0px 12px 0px rgba(105, 90, 166, 0.8);
 	-moz-box-shadow: 0px 0px 12px 0px rgba(105, 90, 166, 0.8);
 	box-shadow: 0px 0px 12px 0px rgba(105, 90, 166, 0.8);
@@ -660,12 +660,12 @@ z-index: -1;
 .portfolio_fillter ul.filter > li:hover,
 ul.filter > li > a:focus {
 	text-decoration: none;
-	color: #695aa6;
+	color: #e24b2b;
 	outline: none;
 }
 
 .portfolio_fillter ul.filter > li.mixitup-control-active {
-	color: #695aa6;
+	color: #e24b2b;
 /*	display: inline-block;*/
 }
 
@@ -698,7 +698,7 @@ ul.filter > li > a:focus {
 
 .portfolio_img .overlay_shape {
 	display: inline-block;
-	background: #695aa6;
+	background: #e24b2b;
 	margin-left: 60%;
 	padding-right: 50px;
 	position: absolute;
@@ -749,7 +749,7 @@ ul.filter > li > a:focus {
 	text-align: center;
 	margin-top: 40%;
 	font-size: 18px;
-	color: #695aa6;
+	color: #e24b2b;
 	font-weight: 600;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -774,7 +774,7 @@ ul.filter > li > a:focus {
 	background-color: #ffffff;
 	border-radius: 25px;
 	font-size: 16px;
-	color: #695aa6;
+	color: #e24b2b;
 	text-decoration: none;
 	cursor: pointer;
 	border: transparent;
@@ -790,7 +790,7 @@ ul.filter > li > a:focus {
 	font-family: 'Baloo Paaji', cursive;
 	font-weight: 400;
 	padding: 8px 30px;
-	background-color: #695aa6;
+	background-color: #e24b2b;
 	border-radius: 25px;
 	font-size: 16px;
 	color: #ffffff;
@@ -891,7 +891,7 @@ ul.filter > li > a:focus {
 }
 
 .price:hover .border_test {
-	background: #695aa6;
+	background: #e24b2b;
 }
 
 .price:hover {
@@ -909,7 +909,7 @@ ul.filter > li > a:focus {
 }
 
 .price a {
-	color: #695aa6;
+	color: #e24b2b;
 	font-family: 'Baloo Paaji', cursive;
 	font-size: 15px;
 	font-weight: 500;
@@ -966,7 +966,7 @@ ul.filter > li > a:focus {
 =======================================*/
 
 .work_with {
-	background: #695aa6;
+	background: #e24b2b;
 	border: transparent;
 	-webkit-box-shadow: 0px 0px 10px 0px rgba(105, 90, 166, 0.9);
 	-moz-box-shadow: 0px 0px 10px 0px rgba(105, 90, 166, 0.9);
@@ -1024,7 +1024,7 @@ ul.filter > li > a:focus {
 	background-color: #ffffff;
 	border-radius: 25px;
 	font-size: 16px;
-	color: #695aa6;
+	color: #e24b2b;
 	text-decoration: none;
 	cursor: pointer;
 	border: transparent;
@@ -1059,7 +1059,7 @@ ul.filter > li > a:focus {
 
 .testimonial_shape {
 	display: inline-block;
-	background: #695aa6;
+	background: #e24b2b;
 	overflow: hidden;
 	padding-left: 110px;
 	top: -20px;
@@ -1126,7 +1126,7 @@ ul.filter > li > a:focus {
 }
 
 .testimonial_inner ul li a i {
-	color: #695aa6;
+	color: #e24b2b;
 }
 
 .testimonial_inner span {
@@ -1160,7 +1160,7 @@ ul.filter > li > a:focus {
 
 .slidNext3:hover,
 .slidPrev3:hover {
-	color: #695aa6;
+	color: #e24b2b;
 }
 
 .arrow_test {
@@ -1261,7 +1261,7 @@ ul.filter > li > a:focus {
 	background-color: #ffffff;
 	border-radius: 25px;
 	font-size: 16px;
-	color: #695aa6;
+	color: #e24b2b;
 	text-decoration: none;
 	cursor: pointer;
 	border: transparent;
@@ -1272,7 +1272,7 @@ ul.filter > li > a:focus {
 }
 
 .send_btn a:hover {
-	background-color: #695aa6;
+	background-color: #e24b2b;
 	-webkit-box-shadow: 0px 0px 10px 0px rgba(105, 90, 166, 0.9);
 	-moz-box-shadow: 0px 0px 10px 0px rgba(105, 90, 166, 0.9);
 	box-shadow: 0px 0px 10px 0px rgba(105, 90, 166, 0.9);
@@ -1319,7 +1319,7 @@ ul.filter > li > a:focus {
 	border: 2px solid transparent;
 	transition: all 0.6s ease;
 	display: inline-block;
-	background: #695aa6;
+	background: #e24b2b;
 	text-decoration: none;
 }
 
@@ -1356,7 +1356,7 @@ ul.filter > li > a:focus {
 =======================================*/
 
 .footer-sub {
-	background: #695aa6;
+	background: #e24b2b;
 	text-align: center;
 }
 
@@ -1415,7 +1415,7 @@ ul.filter > li > a:focus {
 }
 
 .social_icon ul li a i {
-	color: #695aa6;
+	color: #e24b2b;
 	font-size: 20px;
 	text-align: center;
 	background: #ffffff;
@@ -1432,7 +1432,7 @@ ul.filter > li > a:focus {
 }
 
 .social_icon ul li a:hover i {
-	background: #695aa6;
+	background: #e24b2b;
 	color: #ffffff;
 }
 
@@ -1442,12 +1442,12 @@ ul.filter > li > a:focus {
 
 .tweet i {
 	font-size: 20px;
-	color: #695aa6;
+	color: #e24b2b;
 	background: transparent;
 	padding-left: 8%;
 }
 .social_icon ul li a {
-	color: #695aa6;
+	color: #e24b2b;
 	font-size: 16px;
 	font-family: 'Baloo Paaji', cursive;
 	font-weight: 400;
@@ -1509,7 +1509,7 @@ Chatbox Popup Start
 }
 
 .popup-box .popup-head {
-	background-color: #695aa6;
+	background-color: #e24b2b;
 	clear: both;
 	color: #ffffff;
 	display: inline-table;
@@ -1525,7 +1525,7 @@ Chatbox Popup Start
 }
 
 .bg_none:hover i {
-	color: #695aa6;
+	color: #e24b2b;
 }
 
 .bg_none {
@@ -1695,13 +1695,13 @@ Chatbox Popup Start
 	left: 100%;
 	top: 25px;
 	border-top: 10px solid transparent;
-	border-left: 15px solid #695aa6;
+	border-left: 15px solid #e24b2b;
 	border-bottom: 10px solid transparent;
 
 }
 
 .popup-messages .direct-chat-text2 {
-	background: #695aa6 none repeat scroll 0 0;
+	background: #e24b2b none repeat scroll 0 0;
 	margin-left: 2%;
 	margin-right: 38%;
 	color: #fff;
@@ -1814,7 +1814,7 @@ Chatbox End
 
 .download-close {
     float: right;
-    background: #695aa6;
+    background: #e24b2b;
     border-radius: 45px;
     border: 1px solid transparent;
     width: 36px;
@@ -1849,7 +1849,7 @@ Chatbox End
 }
 
 .letter_inner h2 {
-    color: #695aa6;
+    color: #e24b2b;
     font-size: 24px;
     font-weight: 400;
     font-family: 'Baloo Paaji', cursive;
@@ -1917,7 +1917,7 @@ Chatbox End
 }
 
 .button {
-    background: #695aa6;
+    background: #e24b2b;
     border: 0 none;
     border-top-right-radius: 25px;
     border-bottom-right-radius: 25px;
@@ -1951,7 +1951,7 @@ NewsLetter Modal Part CSS End
 ==============================*/
 
 #top_to i {
-	background: #695aa6;
+	background: #e24b2b;
 	width: 45px;
 	height: 45px;
 	line-height: 45px;
